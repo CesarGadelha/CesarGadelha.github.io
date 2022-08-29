@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(209, 247, 201, 0.904);
+    font-family: 'Fira Mono', monospace;
+}
+
+.container{
+    margin: auto;
+}
+
+.foto-perfil{
+   width: 450px;
+   border-radius: 50%;
+   box-shadow: 4px -6px 10px;;
+}
+.social-links{
+    text-decoration: none;
+}
+.social-icons{
+    width: 40px;
+    height: 40px;
+}
+.profile{
+    text-align: center;
+}
+.h2{
+    text-decoration-style: wavy;
+}

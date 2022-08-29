@@ -1,0 +1,13 @@
+body{
+    background-image: url(background.jpg);
+    background-size: auto;
+}
+h1{
+    color: red
+}
+h2{
+    color: rgb(228, 4, 4)
+}
+p{
+    color: rgb(153, 33, 33)
+}

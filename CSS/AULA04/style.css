@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(85, 143, 85, 0.897);
+}
+p{
+    color: rgb(37, 37, 37)
+}
+
+.foto-perfil{
+    border: 4px solid #ffff;
+    border-radius: 40% 50% 100% 40%
+}
+p{
+    border-left: solid;
+}
